@@ -108,7 +108,7 @@ Maintenant que tout est préparé, nous pouvons enfin effectuer l'analyse d'expr
 Ensuite DESeq va effectuer un test statistique afin de définir si chaque gène est différentiellement exprimé. Ce test est fait en partant du principe que la majorité des gènes ne changent pas d'expression entre les deux conditions. Il va attribuer une p-value ajustée (en utilisant la méthode de benjamini-hochberg) pour tenir compte du fait qu'un nombre important de tests statistiques sont effectués (un test par gène sachant qu'il y a environ 20000 gènes). 
 
 
-- L'analyse d'expression différentielle est effectuée avec la fonction suivante:
+- L'analyse d'expression différentielle, ainsi que la normalisation de l'expression des gènes (pour corriger les différences de tailles de librairies), sont effectués avec la fonction suivante:
 ```{r, message=FALSE}
 dds_0.5mM <- DESeq(ddsHTSeq_0.5mM)
 
