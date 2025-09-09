@@ -63,11 +63,22 @@ Cette étude d'enrichissement en GO donne une première idée des fonctions asso
 
 Vous pouvez maintenant faire des recherches sur les GO et les gènes en vous aidant des outils suivant pour voir si leur présence dans ce cluster est logique avec leur expression en réponse au nitrate et à la mutation arp6-1, ou peut nous apprendre quelque chose sur le rôle possible de H2A.Z dans la nutrition azotée.  
 
-Outils:   
-- [Pubmed](https://pubmed.ncbi.nlm.nih.gov/) pour rechercher de la bibliographie en lien entre la GO ou un gène et la nutrition azotée et/ou H2A.Z.   
+
+
+# Etude plus approfondie de gènes d'intérêts
+
+Pour étudier plus en détail des gènes d'intérêt vous pouvez utiliser:  
+
+- [Pubmed](https://pubmed.ncbi.nlm.nih.gov/) pour rechercher de la bibliographie en lien entre la GO ou un gène et la nutrition azotée et/ou H2A.Z.  
+
 - [TAIR](https://www.arabidopsis.org/) pour regarder plus en détail la fonction d'un gène.   
+
 - [Bar u-toronto](https://bar.utoronto.ca/) pour regarder plus en détail l'expression d'un gène dans différentes parties de la plante ou différentes conditions.    
-- [Browser épigénomique](https://jbrowse.arabidopsis.org/?data=Araport11&loc=Chr1%3A26334566..26341735&tracks=TAIR10_genome%2CA11-GL%2CA11-PC%2CSALK_tDNAs%2Cchip_leaf-h2az%2CTAIR10_loci%2CTAIR10_genes%2Cmethyl_leaf&highlight=) pour regarder la présence de H2A.Z
+
+- [Browser épigénomique](https://jbrowse.arabidopsis.org/?data=Araport11&loc=Chr1%3A26334566..26341735&tracks=TAIR10_genome%2CA11-GL%2CA11-PC%2CSALK_tDNAs%2Cchip_leaf-h2az%2CTAIR10_loci%2CTAIR10_genes%2Cmethyl_leaf&highlight=) pour regarder la présence de H2A.Z ou d'autres marques chromatiniennes.  
+
+- [connectTF](https://connectf.org/) et [TF2Network](https://bioinformatics.psb.ugent.be/webtools/TF2Network/) pour étudier des facteurs de transcription
+
 
 
 
@@ -107,6 +118,15 @@ L'étape suivante consiste à dessiner des primers pour des gènes d'intérêt a
 
 **A FAIRE POUR L'EVALUATION**
 
+En groupe de 2 ou 3 préparez une présentation de 5 à 10 minutes dans laquelle vous présenterez :  
+
+- Les clusters que vous avez obtenus, ainsi que celui que vous avez choisi d'explorer en justifiant votre choix.  
+
+- L'analyse biologique du cluster de votre choix.  
+
+- L'exploration de quelques gènes d'intérêt.    
+
+- Des expériences futures que vous feriez pour étudier ce ou ces gènes plus en détail, notamment en faisant appel aux primers que vous avez dessinés.  
 
 
 
