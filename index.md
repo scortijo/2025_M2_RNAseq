@@ -79,6 +79,18 @@ Dans cette séance vous allez analyser plus en détail l'un des clusters identif
 
 **L'évaluation de cette matière va se faire par une présentation orale des résultats que votre groupe aura obtenu**
 
+#### Détail des critères d'évaluation
+En groupe de 2 ou 3 préparez une présentation de 5 à 10 minutes dans laquelle vous présenterez :  
+
+- Les clusters que vous avez obtenus, ainsi que celui que vous avez choisi d'explorer en justifiant votre choix.  
+
+- L'analyse biologique du cluster de votre choix.  
+
+- L'exploration de quelques gènes d'intérêt.    
+
+- Des expériences futures que vous feriez pour étudier ce ou ces gènes plus en détail, notamment en faisant appel aux primers que vous avez dessinés.  
+
+
 <br>
 
 ---
