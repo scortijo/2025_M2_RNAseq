@@ -86,7 +86,7 @@ All_DEG <- full_join(DESeq_result_arp6, DESeq_result_WT, by="gene") %>%
 
 <br>
 
-> Avant d'y ajouter les données d'expression, effectuez la normalisation par la taille de la librarie pour `RNAseq_data` comme dans la `séance 1` (en utilisant la fonction `cpmNormalization` du package `scTenifoldNet`).    
+> Avant d'y ajouter les données d'expression, chargez le tableau contenant les données d'expression (`Raw_featureCounts_WT_arp6.txt`) et mettez les dans l'objet `RNAseq_data`, effectuez la normalisation par la taille de la librarie pour `RNAseq_data` comme dans la `séance 1` (en utilisant la fonction `cpmNormalization` du package `scTenifoldNet`).    
 > A la fin, vous voulez un tableau comme celui ci-dessous, avec une colonne contenant le nom des gènes et une colonne par échantillon avec les données d'expression normalisées par la taille de la librarie. 
 
 ```{r, echo=FALSE}
